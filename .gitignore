@@ -1,0 +1,6 @@
+.env
+__pycache__/
+config_generator/output/
+evaluation/results_2/
+evaluation/logs/
+evaluation/results/

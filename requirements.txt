@@ -1,0 +1,10 @@
+# configuration and QA generation
+pybatfish
+pandas
+jinja2
+pyyaml
+# API model inference
+openai
+# open-model inference (GPU)
+vllm==0.16.0
+python-dotenv
